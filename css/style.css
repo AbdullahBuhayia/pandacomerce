@@ -1,0 +1,71 @@
+
+.container{
+    margin-bottom: 70px;
+}
+.buy_now_button{
+    background-image: linear-gradient(to right, #FF136F ,#f84589 );
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+.banner_bg{
+    background-color: #FEEAE9;
+    border-radius: 15px;
+}
+.banner_item{
+    padding: 20px 40px;
+}
+.banner_price_color{
+    color: #FF136F;
+}
+.catagoris_taitel, .shoes_titel{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.catagori1{
+    background-image: linear-gradient(to  right, #FF589B , #f79abf );
+}
+.catagori2{
+    background-image: linear-gradient(to right, #FF9C35 , #ebb881 );
+}
+.catagori3{
+    background-image: linear-gradient(to  right, #4289FF , #5f9bfa );
+}
+.catagoris_item .catagori1, .catagori2, .catagori3{
+    padding: 10px 30px;
+    color: antiquewhite;
+    border-radius: 20px;
+}
+.catagoris_item img{
+    width: 155px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 7px 10px lightgrey;
+    border-radius: 15px;
+    padding-bottom: 30px;
+}
+.buy_now_button_black{
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px 20px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+.item_price{
+    text-align: center;
+}
+#Contactus{
+    background-color: #FEEAE9;
+    height: 300px;
+}
+.contect_part p{
+    font-size: 16px;
+    color: #707070;
+}
+footer{
+    text-align: center;
+}
